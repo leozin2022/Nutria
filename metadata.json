@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision - Bianca Ferreira",
+  "description": "Análise nutricional elegante e minimalista através de IA para o seu prato.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
